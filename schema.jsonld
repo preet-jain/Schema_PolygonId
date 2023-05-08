@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "PrideVelEmployee": {
-        "@id": "https://raw.githubusercontent.com/preet-jain/Schema_PolygonId/main/schema.jsonld#ProofOfDaoLongevity",
+        "@id": "https://raw.githubusercontent.com/preet-jain/Schema_PolygonId/main/schema.jsonld#PrideVelEmployee",
         "@context": {
           "@version": 1.1,
           "@protected": true,
