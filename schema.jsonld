@@ -14,17 +14,9 @@
           "type": "@type",
           "vocab": "https://github.com/preet-jain/Schema_PolygonId/blob/main/vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "birthDate": {
-            "@id": "vocab:birthDate",
+          "entryDate": {
+            "@id": "vocab:entryDate",
             "@type": "xsd:integer"
-          },
-          "gender": {
-            "@id": "vocab:gender",
-            "@type": "xsd:string"
-          },
-          "designation": {
-            "@id": "vocab:designation",
-            "@type": "xsd:string"
           }
         }
       }
