@@ -1,4 +1,4 @@
-# brithDate
+# birthDate
 
 Describes the birth date of the employee 
 
