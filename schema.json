@@ -106,7 +106,9 @@
             "type": "object",
             "required": [
                 "id",
-                "entryDate"
+                "birthDate",
+                "gender",
+                "designation"
             ],
             "properties": {
                 "id": {
@@ -114,8 +116,14 @@
                     "type": "string",
                     "format": "uri"
                 },
-                "entryDate": {
+                "birthDate": {
                     "type": "integer"
+                },
+                "gender": {
+                    "type": "string"
+                },
+                "designation": {
+                    "type": "string"
                 }
             }
         }
