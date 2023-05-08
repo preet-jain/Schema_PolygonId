@@ -107,7 +107,8 @@
             "required": [
                 "id",
                 "birthDate",
-                "gender"
+                "gender",
+                "designation"
             ],
             "properties": {
                 "id": {
@@ -119,6 +120,9 @@
                     "type": "integer"
                 },
                 "gender": {
+                    "type": "string"
+                },
+                "designation": {
                     "type": "string"
                 }
             }

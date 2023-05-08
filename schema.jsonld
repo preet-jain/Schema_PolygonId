@@ -21,6 +21,10 @@
           "gender": {
             "@id": "vocab:gender",
             "@type": "xsd:string"
+          },
+          "designation": {
+            "@id": "vocab:designation",
+            "@type": "xsd:string"
           }
         }
       }
