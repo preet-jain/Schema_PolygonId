@@ -1,11 +1,3 @@
-# birthDate
+# entryDate
 
-Describes the birth date of the employee 
-
-# gender 
-
-Describes the gender of the employee 
-
-# designation 
-
-Describes the designation of the employee
+Describes the date when a contributor joined the DAO
