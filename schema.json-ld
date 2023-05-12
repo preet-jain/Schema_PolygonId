@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "PridevelEmployee": {
-        "@id": "https://raw.githubusercontent.com/preet-jain/Schema_PolygonId/main/schema.jsonld#PridevelEmployee",
+        "@id": "https://raw.githubusercontent.com/preet-jain/Schema_PolygonId/main/schema.json-ld#PridevelEmployee",
         "@context": {
           "@version": 1.1,
           "@protected": true,
