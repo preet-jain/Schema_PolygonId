@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "ConnectID": {
+        "@id": "https://raw.githubusercontent.com/preet-jain/Schema_PolygonId/main/ConnectID/schema.json-ld#ConnectID",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://github.com/preet-jain/Schema_PolygonId/blob/main/ConnectID/vocab.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "emailId": {
+            "@id": "vocab:emailId",
+            "@type": "xsd:string"
+          },
+          "name": {
+            "@id": "vocab:name",
+            "@type": "xsd:string"
+          },
+          "birthDate": {
+            "@id": "vocab:birthDate",
+            "@type": "xsd:integer"
+          }
+        }
+      }
+    }
+  ]
+}
