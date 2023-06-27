@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/preet-jain/Schema_PolygonId/main/ConnectID/schema.json-ld",
-            "jsonSchema": "https://raw.githubusercontent.com/preet-jain/Schema_PolygonId/main/ConnectID/schema.json"
+            "jsonLdContext": "https://raw.githubusercontent.com/preet-jain/Schema_PolygonId/main/Trigon/schema.json-ld",
+            "jsonSchema": "https://raw.githubusercontent.com/preet-jain/Schema_PolygonId/main/Trigon/schema.json"
         }
     },
     "required": [
@@ -107,8 +107,7 @@
             "required": [
                 "id",
                 "emailId",
-                "name",
-                "birthDate"
+                "name"
             ],
             "properties": {
                 "id": {
@@ -121,9 +120,6 @@
                 },
                 "name": {
                     "type": "string"
-                },
-                "birthDate": {
-                    "type": "integer"
                 }
             }
         }
