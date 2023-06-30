@@ -107,7 +107,7 @@
             "required": [
                 "id",
                 "emailId",
-                "name"
+                "username"
             ],
             "properties": {
                 "id": {
@@ -118,7 +118,7 @@
                 "emailId": {
                     "type": "string"
                 },
-                "name": {
+                "username": {
                     "type": "string"
                 }
             }

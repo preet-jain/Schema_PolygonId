@@ -18,8 +18,8 @@
             "@id": "vocab:emailId",
             "@type": "xsd:string"
           },
-          "name": {
-            "@id": "vocab:name",
+          "username": {
+            "@id": "vocab:username",
             "@type": "xsd:string"
           },
         }

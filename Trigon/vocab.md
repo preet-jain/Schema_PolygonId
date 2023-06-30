@@ -2,6 +2,6 @@
 
 Describes the email address of the user
 
-# name
+# username
 
-Describes the name of the user
+Describes the username of the user
