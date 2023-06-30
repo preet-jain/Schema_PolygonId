@@ -14,8 +14,8 @@
           "type": "@type",
           "vocab": "https://github.com/preet-jain/Schema_PolygonId/blob/main/Trigon/vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "emailId": {
-            "@id": "vocab:emailId",
+          "email": {
+            "@id": "vocab:email",
             "@type": "xsd:string"
           },
           "username": {

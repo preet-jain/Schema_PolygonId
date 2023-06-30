@@ -106,7 +106,7 @@
             "type": "object",
             "required": [
                 "id",
-                "emailId",
+                "email",
                 "username"
             ],
             "properties": {
@@ -115,7 +115,7 @@
                     "type": "string",
                     "format": "uri"
                 },
-                "emailId": {
+                "email": {
                     "type": "string"
                 },
                 "username": {

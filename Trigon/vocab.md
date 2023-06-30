@@ -1,4 +1,4 @@
-# emailId
+# email
 
 Describes the email address of the user
 
